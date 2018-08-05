@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="New_Snake.S_Object_on_board" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Food" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Remain" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Body_Block" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAAAAAAAAAACAAAAAQAAIAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Head" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Tail" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Snake">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIABAAEACQEAEQAAAAAAAABCAAAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Snake.S_Game_Board" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABIEAAAgACAAAAAAEQQAAAAAAAAMEACAAAAA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="New_Snake.S_Location">
+    <Position X="10" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYiA=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="New_Snake.E_Direction">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Snake_classes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
